@@ -58,7 +58,7 @@ public abstract class Game
      * player.
      */
     public abstract void declareWinner();
-
+ 
    
     
 }//end class
