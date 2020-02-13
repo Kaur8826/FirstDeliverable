@@ -13,7 +13,7 @@ package ca.sheridancollege.project;
  */
 public abstract class Card 
 {
-    //default modifier for child classe
+    //default modifier for child classes
     
     /**
      * Students should implement this method for their specific children classes 
